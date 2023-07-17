@@ -5,7 +5,7 @@
   >
     <div class="mt-20 flex">
       <ProductSideBar />
-      <ProductCardList />
+      <NuxtPage />
     </div>
   </div>
   <!-- ProductListPage -->
